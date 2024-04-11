@@ -1,6 +1,6 @@
 # Hello, I'm Victor Amador Viegas!
 
-I'm a Computer Science student always looking to learn new technologies and improve my skills. I'm interested in pursuing an internship in the technology field. Currently, I'm focusing on studying Java and Python, but I'm also interested in other languages and technologies.
+Aspiring Computer Science student passionate about web and mobile development, actively seeking an internship in programming. Technology enthusiast constantly evolving, always seeking challenges and continuous learning. I love creating innovative solutions and collaborating on projects that positively impact people's lives.
 
 ## Languages and Tools
 
