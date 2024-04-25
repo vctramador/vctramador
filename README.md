@@ -11,6 +11,7 @@ Front-end:
 Back-end:
 - Node.js
 - MySQL
+- Python
   
 Operational system:
 - Linux Red Hat
