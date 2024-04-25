@@ -3,13 +3,16 @@
 Aspiring Computer Science student passionate about web and mobile development, actively seeking an internship in programming. Technology enthusiast constantly evolving, always seeking challenges and continuous learning. I love creating innovative solutions and collaborating on projects that positively impact people's lives.
 
 ## Languages and Tools
-
-- Java
+Front-end:
 - JavaScript
-- Node.js
 - HTML
 - CSS
+  
+Back-end:
+- Node.js
 - MySQL
+  
+Operational system:
 - Linux Red Hat
 
 ## Interests
