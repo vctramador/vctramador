@@ -1,28 +1,17 @@
 # Hello, I'm Victor Amador Viegas!
 
-Aspiring Computer Science student passionate about web and mobile development, actively seeking an internship in programming. Technology enthusiast constantly evolving, always seeking challenges and continuous learning. I love creating innovative solutions and collaborating on projects that positively impact people's lives.
+I'm a Computer Science student who's all about data analysis, and I'm on the hunt for an internship to put my skills to the test and grow in this field. Tech enthusiast, always up for a challenge and eager to learn more. I love coming up with innovative solutions and working on projects that make a real difference in people's lives.
 
-## Languages and Tools
-Front-end:
-- JavaScript
-- HTML
-- CSS
-  
-Back-end:
-- Node.js
-- MySQL
-- Python
-  
-Operational system:
-- Linux Red Hat
+## Skills and Tools
+
+### Data Analysis Languages and Tools:
+
+- **Python**: Writing scripts for data analysis and visualization.
+- **SQL**: Handling and querying relational databases.
+- **Power BI**: Building interactive dashboards and reports.
+- **NoSQL**: Working with non-relational databases.
+- **Linux**: My go-to OS for development environments.
 
 ## Interests
 
-Besides programming, I'm interested in games, music, football, philosophy, history, and general trivia. I'm always open to new opportunities and challenges in the IT field.
-
-Feel free to contact me or learn more about me! :)
-
-<!---
-vctramador/vctramador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When I'm not programming, I'm into games, music, football, history, and random trivia. Always open to new opportunities and challenges in the IT world, especially in data analysis.
