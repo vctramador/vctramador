@@ -15,7 +15,7 @@ Sou estudante de Ciência da Computação, estou em busca de uma oportunidade pa
 
 ### Ferramentas:
 
-[SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3E4E88?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
