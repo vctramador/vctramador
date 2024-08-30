@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Amador Viegas! 👋
+Victor Amador Viegas
 
 Sou estudante de Ciência da Computação, estou em busca de uma oportunidade para colocar minhas habilidades em prática e crescer na área de TI. Sou entusiasta de tecnologia, sempre pronto para um desafio e com muita vontade de aprender. Adoro criar soluções inovadoras e trabalhar em projetos que façam a diferença onde eu estiver atuando.
 
